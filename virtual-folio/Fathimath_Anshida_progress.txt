@@ -1,0 +1,4 @@
+day 1: 7/2/2025
+
+learn:html,css,javascript
+implement:fully implement
